@@ -141,3 +141,37 @@ Stacktrace:
 2026-04-24 05:36:57,885 - INFO - Driver has been saved in cache [/home/runner/.wdm/drivers/chromedriver/linux64/147.0.7727.117]
 2026-04-24 05:37:01,050 - INFO - 🎉 No pending URLs. All done!
 2026-04-24 05:37:02,111 - INFO - ✨ Cycle complete
+2026-06-18 13:14:00,916 - INFO - 🚀 Starting | URLs: 21
+2026-06-18 13:14:00,918 - INFO - ====== WebDriver manager ======
+2026-06-18 13:14:02,901 - INFO - Get LATEST chromedriver version for google-chrome
+2026-06-18 13:14:02,938 - INFO - There is no [linux64] chromedriver "149.0.7827.155" for browser google-chrome "149.0.7827" in cache
+2026-06-18 13:14:02,972 - INFO - There is no [linux64] chromedriver "149.0.7827.155" for browser google-chrome "149.0.7827" in cache
+2026-06-18 13:14:02,972 - INFO - Get LATEST chromedriver version for google-chrome
+2026-06-18 13:14:03,077 - INFO - WebDriver version 149.0.7827.155 selected
+2026-06-18 13:14:03,083 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/149.0.7827.155/linux64/chromedriver-linux64.zip
+2026-06-18 13:14:03,083 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/149.0.7827.155/linux64/chromedriver-linux64.zip
+2026-06-18 13:14:03,132 - INFO - Driver downloading response is 200
+2026-06-18 13:14:03,300 - INFO - Driver has been saved in cache [/home/runner/.wdm/drivers/chromedriver/linux64/149.0.7827.155]
+2026-06-18 13:14:10,497 - INFO - 📦 Pending: 21/21 URLs
+2026-06-18 13:14:23,967 - ERROR - ❌ Login failed: Message: 
+Stacktrace:
+#0 0x55b84961a3da <unknown>
+#1 0x55b848ffc139 <unknown>
+#2 0x55b849050884 <unknown>
+#3 0x55b849050ad1 <unknown>
+#4 0x55b84909b974 <unknown>
+#5 0x55b849098b5c <unknown>
+#6 0x55b849043e4f <unknown>
+#7 0x55b849044c31 <unknown>
+#8 0x55b8495e09f7 <unknown>
+#9 0x55b8495df203 <unknown>
+#10 0x55b8495c9f16 <unknown>
+#11 0x55b8495dfd9a <unknown>
+#12 0x55b8495b1eb0 <unknown>
+#13 0x55b849606d58 <unknown>
+#14 0x55b849606ef5 <unknown>
+#15 0x55b849618f5e <unknown>
+#16 0x7f5f2569caa4 <unknown>
+#17 0x7f5f25729c6c <unknown>
+
+2026-06-18 13:14:25,036 - INFO - ✨ Cycle complete
